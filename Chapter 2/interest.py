@@ -8,7 +8,7 @@ t that the money will be compounded for. Calculate
 and print the final amount after t years.
 """
 
-P = 10,000
+P = 10000
 answer = input ("years?")
 r = 8/100
 n = 12
